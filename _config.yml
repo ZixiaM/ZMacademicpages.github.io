@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zixia Meng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zixia Meng"
 description              : &description "personal description"
 url                      : https://zmacademicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zixia Meng"
   avatar           : "profile.png"
-  bio              : "得享好梦"
+  bio              : ""
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
