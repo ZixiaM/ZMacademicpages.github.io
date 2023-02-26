@@ -29,12 +29,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java/Python/R/JavaScript/MATLAB
+* TensorFlow/Pytorch
+* ML including classic regression/classification model, CNN, RNN and other advanced deep learning networks
+* Signal processing related background(detection and estimation, QCD, Measure Theory)
 
 Publications
 ======
