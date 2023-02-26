@@ -18,6 +18,7 @@ You can find my CV here: [Zixia Meng's Curriculum Vitae](../assets/Curriculum_Vi
 Publications
 ======
 * Continuous Joint Angle Estimation Using Deep Learning for Multi-DoF Prosthetic Wrist for Activities of Daily Living(Submitted).
+  
   **Zixia Meng**, Jiyeon Kang.
   
 * [CNN-based controller for multi-DoF prosthetic wrist using sEMG data during activities of daily living](https://ieeexplore.ieee.org/document/9925506).
