@@ -26,4 +26,10 @@ Publications
 
   Mohamed Fazil, **Zixia Meng**, and Jiyeon Kang. IEEE Ras & Embs International Conference on Biomedical Robotics and Biomechatronics (BioRoB), 2022.
 
+* [Sampling strategy and error estimation for evaluation of quadratic form error using Cartesian coordinate data](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-smt.2016.0470)
+
+  Liu Fei, Liu Dan, **Meng Zixia** et al. IET Science, Measurement & Technology, 2017, 11(7): 839-846.
+
+
+
 
