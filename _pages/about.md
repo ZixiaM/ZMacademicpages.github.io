@@ -27,4 +27,3 @@ Publications
   Mohamed Fazil, **Zixia Meng**, and Jiyeon Kang. IEEE Ras & Embs International Conference on Biomedical Robotics and Biomechatronics (BioRoB), 2022.
 
 
-<big>1号字 最小</big>
