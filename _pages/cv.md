@@ -18,12 +18,12 @@ Education
 Work experience
 ======
 * Summer 2020: Data Scientist
-  * Dr. Xu's lab at the University of Pennsylvania
+  * Dr. Xu's lab, University of Pennsylvania, U.S.
   * Duties included: Data mining, software development
   * Supervisor: [Professor Xu Xiaowei](http://pathology.med.upenn.edu/department/people/525/xiaowei-george-xu)
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2016 - Fall 2018: Research Assistant
+  * Institute of Engineering & Medicine Interdisciplinary Studies, School of Mechanical Engineering, Xi’an Jiaotong University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
