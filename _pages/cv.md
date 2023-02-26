@@ -24,8 +24,8 @@ Work experience
 
 * Fall 2016 - Fall 2018: Research Assistant
   * Institute of Engineering & Medicine Interdisciplinary Studies, School of Mechanical Engineering, Xi’an Jiaotong University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Data collection, algorithm design
+  * Supervisor: Professor Lin Liang
   
 Skills
 ======
