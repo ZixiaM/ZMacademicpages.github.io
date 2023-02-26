@@ -15,9 +15,9 @@ You can find my CV here: [Zixia Meng's Curriculum Vitae](../assets/Curriculum_Vi
 
 [Email](mailto:mengzixia0121@126.com) / [Github](https://github.com/ZixiaM)
 
-A data-driven personal website
+Publications
 ======
-[CNN-based controller for multi-DoF prosthetic wrist using sEMG data during activities of daily living](https://ieeexplore.ieee.org/document/9925506)
+1.[CNN-based controller for multi-DoF prosthetic wrist using sEMG data during activities of daily living](https://ieeexplore.ieee.org/document/9925506)
 
 Mohamed Fazil, Zixia Meng, and Jiyeon Kang
 
