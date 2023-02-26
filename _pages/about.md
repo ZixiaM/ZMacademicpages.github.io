@@ -21,6 +21,11 @@ Publications
   
   **Zixia Meng**, Jiyeon Kang.
   *In submission*.
+
+* Model-based Deep Siamese Autoencoder for Clustering Single-cell RNA-Seq Data.
+
+  **Zixia Meng**, Le Gao.
+  *In submission*
   
 * [CNN-based controller for multi-DoF prosthetic wrist using sEMG data during activities of daily living](https://ieeexplore.ieee.org/document/9925506).
 
